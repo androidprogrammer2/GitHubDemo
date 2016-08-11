@@ -14,4 +14,9 @@ public class MainActivity extends AppCompatActivity {
     private void method(){
         //Created by programmer 2
     }
+
+    private void methodmaster()
+    {
+//        created by master
+    }
 }
