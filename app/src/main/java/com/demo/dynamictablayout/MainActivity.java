@@ -27,10 +27,5 @@ public class MainActivity extends AppCompatActivity {
         // updaed by master
         //master
         //change by programmer 2
-
-
-    }
-
-    private void programer2() {
     }
 }
