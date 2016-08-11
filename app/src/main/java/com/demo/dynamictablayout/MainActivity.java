@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
         //change by programmer 2
     }
 
+    private void programer2() {
+        //master made changes
+
+    }
 //programmer commented
 
 // demo discuss with bhavik
