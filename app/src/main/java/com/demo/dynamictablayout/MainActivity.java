@@ -11,12 +11,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void method(){
+    private void method() {
         //Created by programmer 2
     }
 
-    private void methodmaster()
-    {
+    private void methodmaster() {
 //        created by master
+        //update by programer in master method
+
     }
 }
