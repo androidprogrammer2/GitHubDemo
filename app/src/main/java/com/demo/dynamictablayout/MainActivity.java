@@ -5,7 +5,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int programmer22;
+    private static final String TAG = MainActivity.class.getSimpleName();
+    private static final String KEY_COMMIT = "commit";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,4 +31,12 @@ public class MainActivity extends AppCompatActivity {
         //master
         //change by programmer 2
     }
+
+    private void programer2() {
+        //master made changes
+
+    }
+//programmer commented
+
+// demo discuss with bhavik
 }
