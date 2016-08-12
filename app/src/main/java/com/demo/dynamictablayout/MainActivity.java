@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
+    private static final String KEY_COMMIT = "commit";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
